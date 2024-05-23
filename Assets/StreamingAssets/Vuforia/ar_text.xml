@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="tranthaitong_back" size="5.000000 3.077884" />
+    <ImageTarget name="tranthaitong_front" size="5.000000 3.041016" />
+    <ImageTarget name="tranquangkhai_back" size="5.000000 2.990234" />
+    <ImageTarget name="tranquangkhai_front" size="5.000000 3.025391" />
+    <ImageTarget name="trannhatduat_back" size="5.000000 3.094556" />
+    <ImageTarget name="trannhatduat_front" size="5.000000 2.984559" />
+    <ImageTarget name="tranminhtong_back" size="5.000000 3.054688" />
+    <ImageTarget name="tranminhtong_front" size="5.000000 3.044240" />
+    <ImageTarget name="trankhanhdu_back" size="5.000000 3.053227" />
+    <ImageTarget name="trankhanhdu_front" size="5.000000 3.045664" />
+    <ImageTarget name="trananhtong_back" size="5.000000 3.023952" />
+    <ImageTarget name="trananhtong_front" size="5.000000 2.990234" />
+  </Tracking>
+</QCARConfig>

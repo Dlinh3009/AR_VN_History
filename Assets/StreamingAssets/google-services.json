@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "172295365519",
+    "firebase_url": "https://vocal-camera-417208-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "vocal-camera-417208",
+    "storage_bucket": "vocal-camera-417208.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172295365519:android:7aa1d075546efd3d88e1fa",
+        "android_client_info": {
+          "package_name": "com.Unity.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeKSRLJsgrqw5A0daH8jPX8PUmgSmHDwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
